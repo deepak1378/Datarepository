@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16586" started-at="2017-10-28T17:33:31Z" finished-at="2017-10-28T17:33:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16586" started-at="2017-10-28T17:33:31Z" finished-at="2017-10-28T17:33:47Z">
+      <class name="webDriver.POM_TC001">
+        <test-method status="PASS" signature="Openbrowser()[pri:0, instance:webDriver.POM_TC001@66a3ffec]" name="Openbrowser" is-config="true" duration-ms="16297" started-at="2017-10-28T10:33:31Z" finished-at="2017-10-28T10:33:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Openbrowser -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:webDriver.POM_TC001@66a3ffec]" name="test1" duration-ms="164" started-at="2017-10-28T10:33:47Z" finished-at="2017-10-28T10:33:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="Closebrowser()[pri:0, instance:webDriver.POM_TC001@66a3ffec]" name="Closebrowser" is-config="true" duration-ms="16" started-at="2017-10-28T10:33:47Z" finished-at="2017-10-28T10:33:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closebrowser -->
+      </class> <!-- webDriver.POM_TC001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
